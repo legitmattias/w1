@@ -7,6 +7,6 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mattias Ubbesem <mu222cu@student.lnu.se>",
+  "author": "Mattias Ubbesen, Victor Carlsson",
   "license": "ISC"
 }
